@@ -13,7 +13,8 @@ author: Zafiirah Hosenie
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "My Research"
+  Publications: 
+    - My Research: "https://zafiirah13.github.io/zafiirah-hosenie/My%20Research" 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
