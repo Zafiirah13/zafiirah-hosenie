@@ -13,6 +13,7 @@ author: Zafiirah Hosenie
 
 navbar-links:
   About Me: "aboutme"
+  Publication: "Publication"
   Publications: 
     - My Research: "https://zafiirah13.github.io/zafiirah-hosenie/My%20Research" 
   #Resources:
