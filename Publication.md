@@ -5,7 +5,7 @@ title: My Publications
 <p style="text-align: center;"> This section includes my research, ordered from newest to oldest. </p>
 
 #### 1. Imbalance Learning for Variable Star Classification using Machine Learning. 
-SO - <code></mnras> Abi
+SO - <code>[MNRAS](https://arxiv.org/abs/2002.12386)</code> Abi
    [MNRAS](https://arxiv.org/abs/2002.12386)
 ``[MNRAS](https://arxiv.org/abs/2002.12386)
 <span style="color:blue"> ***Zafiirah Hosenie*** </span>, Robert Lyon, Benjamin Stappers, Arrykrishna Mootoovaloo, Vanessa McBride
