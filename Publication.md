@@ -3,7 +3,9 @@ layout: page
 title: My Publications
 ---
 <p style="text-align: center;"> This section includes my research, ordered from newest to oldest. </p>
-1. Imbalance Learning for Variable Star Classification using Machine Learning
+### Imbalance Learning for Variable Star Classification using Machine Learning
+<span style="color:blue">some *blue* text</span>
+Zafiirah Hosenie, Robert Lyon, Benjamin Stappers, Arrykrishna Mootoovaloo, Vanessa McBride
 2. Comparing Multiclass, Binary, and Hierarchical Machine Learning Classification schemes for variable stars
 3. DeepSource: Point Source Detection using Deep Learning
 4. No evidence for extensions to the standard cosmological model
