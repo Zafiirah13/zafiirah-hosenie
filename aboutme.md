@@ -1,10 +1,10 @@
 ---
 layout: page
-
-
+title: 
 ---
+
 <p style='text-align: justify;'> 
-I am currently a PhD Candidate at Jodrell Bank Centre for Astrophysics ([JBCA](http://www.jodrellbank.manchester.ac.uk/)), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr [Rob Lyon](http://www.scienceguyrob.com/). My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy [(DARA) Big Data](https://www.darabigdata.com/) project.
+I am currently a PhD Candidate at Jodrell Bank Centre for Astrophysics [JBCA](http://www.jodrellbank.manchester.ac.uk/), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr [Rob Lyon](http://www.scienceguyrob.com/). My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy [(DARA) Big Data](https://www.darabigdata.com/) project.
 </p>
 
 <p style='text-align: justify;'> 
