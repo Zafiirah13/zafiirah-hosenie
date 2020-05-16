@@ -3,8 +3,12 @@ layout: page
 # My Publications
 ---
 
-
-<p style='text-align: justify;'> My name is Zafiirah Hosenie. Born in Mauritius, a tropical and paradise Island, I did my undergraduate studies in Physics at the University of Mauritius. Following the prestigious award, the Square Kilometre Array (SKA) Master bursary, I embarked on an MSc in Astrophysics and Space Science at the University of Cape Town and North-West University. In April 2018, I started my PhD studies at Jodrell Bank Centre for Astrophysics (JBCA), the University of Manchester, under the supervision of Prof. Benjamin Stappers and Dr Rob Lyon. My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (DARA) Big Data project. </p>
+1. Imbalance Learning for Variable Star classification
+2. Comparing Multiclass, Binary, and Hierarchical Machine Learning Classification schemes for variable stars
+3. DeepSource: Point Source Detection using Deep Learning
+4. No evidence for extensions to the standard cosmological model
+5. Marginal Likelihoods from Monte Carlo Markov Chains
+<p style='text-align: justify;'>In this paper, we present a method for computing the marginal likelihood, also known as the model likelihood or Bayesian evidence, from Markov Chain Monte Carlo (MCMC), or other sampled posterior distributions. In order to do this, one needs to be able to estimate the density of points in parameter space, and this can be challenging in high numbers of dimensions. Here we present a Bayesian analysis, where we obtain the posterior for the marginal likelihood, using kth nearest-neighbour distances in parameter space, using the Mahalanobis distance metric, under the assumption that the points in the chain (thinned if required) are independent. We generalise the algorithm to apply to importance-sampled chains, where each point is assigned a weight. We illustrate this with an idealised posterior of known form with an analytic marginal likelihood, and show that for chains of length ∼10^5 points, the technique is effective for parameter spaces with up to ∼20 dimensions. We also argue that k=1 is the optimal choice, and discuss failure modes for the algorithm. In a companion paper (Heavens et al. 2017) we apply the technique to the main MCMC chains from the 2015 Planck analysis of cosmic background radiation data, to infer that quantitatively the simplest 6-parameter flat ΛCDM standard model of cosmology is preferred over all extensions considered. </p>
 
 
 
