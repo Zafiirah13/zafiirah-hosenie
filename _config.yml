@@ -14,7 +14,7 @@ author: Zafiirah Hosenie
 navbar-links:
   About Me: "aboutme"
   Publications: "Publication"
-  Publications: 
+  Publication: 
     - My Research: "https://zafiirah13.github.io/zafiirah-hosenie/My%20Research" 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
