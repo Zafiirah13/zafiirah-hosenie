@@ -1,8 +1,8 @@
 ---
 layout: page
-# My Publications
+title: My Publications
 ---
-
+<p style="text-align: center;"> This section includes my research, ordered from newest to oldest. </p>
 1. Imbalance Learning for Variable Star Classification using Machine Learning
 2. Comparing Multiclass, Binary, and Hierarchical Machine Learning Classification schemes for variable stars
 3. DeepSource: Point Source Detection using Deep Learning
