@@ -3,7 +3,7 @@ layout: page
 # My Publications
 ---
 
-1. Imbalance Learning for Variable Star classification
+1. Imbalance Learning for Variable Star Classification using Machine Learning
 2. Comparing Multiclass, Binary, and Hierarchical Machine Learning Classification schemes for variable stars
 3. DeepSource: Point Source Detection using Deep Learning
 4. No evidence for extensions to the standard cosmological model
