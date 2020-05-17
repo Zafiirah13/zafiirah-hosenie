@@ -24,7 +24,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 ### Experience
 
 #### 1. Teaching Assistant (Sep 2018 - Jan 2019)
-<p style='text-align: left;'>The University of Manchester</p> 
+The University of Manchester
 
 #### 2. Education Officer (Jan 2015 - Jan 2016)
-<p style='text-align: left;'>OCEP College, Mauritius</p> 
+OCEP College, Mauritius
