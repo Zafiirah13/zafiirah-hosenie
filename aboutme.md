@@ -29,3 +29,8 @@ The University of Manchester
 
 #### 2. Education Officer (Jan 2015 - Jan 2016)
 OCEP College, Mauritius
+
+
+### Education
+
+PhD in Manchine Learning for Astrophysics                                                      The University of Manchester
