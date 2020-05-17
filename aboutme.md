@@ -23,7 +23,6 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 ### Experience
 
-
 #### 1. Teaching Assistant (Sep 2018 - Jan 2019)
 The University of Manchester
 
@@ -31,6 +30,9 @@ The University of Manchester
 OCEP College, Mauritius
 
 
-### Education
+### Skills
+TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
+Geospatial projects: Google Earth Engine, Climate Data Store toolbox
+NLP projects: 
 
 PhD in Manchine Learning for Astrophysics                                                      The University of Manchester
