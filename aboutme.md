@@ -3,7 +3,17 @@ layout: page
 title:
 ---
 
-<p style='text-align: justify;'>I am currently a **PhD Candidate** at Jodrell Bank Centre for Astrophysics (JBCA), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr Rob Lyon. My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (DARA) Big Data project. My research interests include developing automated pipeline using ***machine learning*** for classification purposes in image domain (***Computer Vision***) & time domain Astronomy (***temporal analysis***) and in ***imbalanced machine learning*** problems. In addition, I have a strong zeal in developing machine learning algorithms for ***sustainability development using geospatial data***. More specifically tackling climate change problems, for instance, land cover mapping problems, risk analysis of certain regions using geospatial images (flooding, heatwaves, wildfires ...) and performing temporal anaylsis of Greenhouse Gas (GHG) emission at various geolocations using satellite data.</p>
+<p style='text-align: justify;'>I am currently a PhD Candidate at Jodrell Bank Centre for Astrophysics (JBCA), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr Rob Lyon. My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (DARA) Big Data project. My research interests include developing automated pipeline using machine learning for classification purposes in image domain (Computer Vision) & time domain Astronomy (temporal analysis) and in imbalanced machine learning problems. </p>
+  
+<p style='text-align: justify;'>In addition, I have a strong zeal in developing machine learning algorithms for sustainability development using geospatial data. More specifically tackling climate change problems, for instance, land cover mapping problems, risk analysis of certain regions using geospatial images (flooding, heatwaves, wildfires ...) and performing temporal anaylsis of Greenhouse Gas (GHG) emission at various geolocations using satellite data.</p>
+
+<p style='text-align: justify;'>
+Moreover, I also undertake some Natural Language Process (NLP) projects involving automated process of understanding and interpreting unstructured data, for example, 
+  - sentences & word count, 
+  - frequency of unique word, 
+  - N-grams: use of content-tagging & word prediction,
+  - Text scoring: output polarity & subjectivity.
+</p>
 
 ### My Backgroound
 
