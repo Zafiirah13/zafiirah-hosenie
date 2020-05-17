@@ -22,9 +22,10 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 </p>
 
 ### Experience
-aa|bb|cc
---|--|--
-ee|ff|gg 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 #### Teaching Assistant 
 <p style='text-align: left;'>The University of Manchester</p> <p style='text-align: right;'> Sep 2018 - Jan 2019</p>
 
