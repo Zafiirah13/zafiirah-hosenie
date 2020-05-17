@@ -15,10 +15,12 @@ Moreover, I also undertake some Natural Language Process (NLP) projects involvin
   - Text scoring: output polarity & subjectivity.
 
 
-### My Backgroound
+### My Background
 
 <p style='text-align: justify;'> 
 Born in Mauritius, a tropical and paradise Island, I did my undergraduate studies in Physics at the University of Mauritius. Afterwards, I have been awarded two the prestigious awards: the Square Kilometre Array (SKA) and North-West University Master bursaries, where I embarked on an MSc in Astrophysics and Space Science at the University of Cape Town and North-West University. 
 </p>
 
-
+### Experience
+#### Teaching Assistant <p style='text-align: right;'> Sep 2018 - Jan 2019</p>
+#### Education Officer <p style='text-align: right;'> Jan 2015 - Jan 2016</p>
