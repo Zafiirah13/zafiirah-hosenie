@@ -22,6 +22,9 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 </p>
 
 ### Experience
+aa|bb|cc
+--|--|--
+ee|ff|gg 
 #### Teaching Assistant 
 <p style='text-align: left;'>The University of Manchester</p> <p style='text-align: right;'> Sep 2018 - Jan 2019</p>
 
