@@ -23,6 +23,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 ### Experience
 
+
 #### 1. Teaching Assistant (Sep 2018 - Jan 2019)
 The University of Manchester
 
