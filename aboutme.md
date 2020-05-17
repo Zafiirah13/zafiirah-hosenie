@@ -22,12 +22,9 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 </p>
 
 ### Experience
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-#### Teaching Assistant 
-<p style='text-align: left;'>The University of Manchester</p> <p style='text-align: right;'> Sep 2018 - Jan 2019</p>
 
-#### Education Officer 
-<p style='text-align: left;'>OCEP College, Mauritius</p> <p style='text-align: right;'> Jan 2015 - Jan 2016</p>
+#### Teaching Assistant (Sep 2018 - Jan 2019)
+<p style='text-align: left;'>The University of Manchester</p> 
+
+#### Education Officer (Jan 2015 - Jan 2016)
+<p style='text-align: left;'>OCEP College, Mauritius</p> 
