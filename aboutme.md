@@ -31,8 +31,7 @@ OCEP College, Mauritius
 
 
 ### Skills
-TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
+Programming skills: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
 Geospatial projects: Google Earth Engine, Climate Data Store toolbox
-NLP projects: 
+NLP projects: NLTK, SpaCy.
 
-PhD in Manchine Learning for Astrophysics                                                      The University of Manchester
