@@ -31,7 +31,7 @@ OCEP College, Mauritius
 
 
 ### Skills
-Programming skills: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
-Geospatial projects: Google Earth Engine, Climate Data Store toolbox
-NLP projects: NLTK, SpaCy.
+- Programming skills: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
+- Geospatial projects: Google Earth Engine, Climate Data Store toolbox
+- NLP projects: NLTK, SpaCy.
 
