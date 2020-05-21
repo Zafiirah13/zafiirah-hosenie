@@ -345,7 +345,7 @@ footer .footer-custom-content {
 }
 
 .post-preview:last-child {
-  border-bottom: 0;
+  border-bottom: 40;#0
 }
 
 .post-preview a {
@@ -361,7 +361,7 @@ footer .footer-custom-content {
 
 .post-preview .post-title {
   font-size: 20px;
-  margin-top: 0;
+  margin-top: 40px;#0
 }
 .post-preview .post-subtitle {
   margin: 0;
