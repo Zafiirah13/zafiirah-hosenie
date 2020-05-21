@@ -340,7 +340,7 @@ footer .footer-custom-content {
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    padding: 25px 0;
   }
 }
 
@@ -360,7 +360,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 20px;
+  font-size: 25px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -371,7 +371,7 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 10px;
+  font-size: 15px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -406,7 +406,7 @@ footer .footer-custom-content {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 20px;
+    font-size: 25px;
   }
 }
 
