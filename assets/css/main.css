@@ -467,7 +467,7 @@ footer .footer-custom-content {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 200px;#51px /* The small navbar is 50px tall + 1px border */
+  margin-top: 51px; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
 }
 .intro-header.big-img .big-img-transition {
@@ -508,7 +508,7 @@ footer .footer-custom-content {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  margin: 10px 0 0;
+  margin: 100px 0 0;#10px00
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
