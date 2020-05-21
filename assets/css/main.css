@@ -458,7 +458,7 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 100 20px;#80px020px
+  margin: 80px 0 20px;#80px020px
   position: relative;
 }
 .intro-header.big-img {
@@ -467,7 +467,7 @@ footer .footer-custom-content {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 51px; /* The small navbar is 50px tall + 1px border */
+  margin-top: 200px;#51px /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
 }
 .intro-header.big-img .big-img-transition {
