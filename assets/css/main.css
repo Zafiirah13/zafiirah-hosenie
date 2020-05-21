@@ -494,11 +494,11 @@ footer .footer-custom-content {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
+  margin-top: 100px;#0
   font-size: 80px;
 }
 .intro-header .post-heading h1 {
-  margin-top: 0;
+  margin-top: 100px;#0
   font-size: 50px;
 }
 .intro-header .page-heading .page-subheading,
@@ -508,7 +508,7 @@ footer .footer-custom-content {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  margin: 100px 0 0;#10px00
+  margin: 10px 0 0;#10px00
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
