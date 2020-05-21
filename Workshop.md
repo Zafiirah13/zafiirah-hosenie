@@ -13,7 +13,7 @@ I am fortunate to be able to attend the Deep Learning Indaba in Johanesburg.
 ![prize](/assets/img/Prize-DL.jpg)
 ![Nando-sign-book](/assets/img/Nando-signingBook.jpeg)
 ![Nando-note](/assets/img/Nando-Sign-book.jpg)
-![Nando-presentation](/assets/img/Nando-Giving-Talks.png)
+![Nando-presentation](/assets/img/Nando-Giving-Talks.jpg)
 ![Women-in-ML](/assets/img/Women-in-ML.jpeg)
 ![Google-OfficeL](/assets/img/Google-Office-Joburg.jpg)
 
