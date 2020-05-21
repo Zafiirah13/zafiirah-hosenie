@@ -3,21 +3,21 @@ layout: page
 title:
 ---
 
-<p align="justify"> I am currently a <b>PhD Candidate</b> at Jodrell Bank Centre for Astrophysics (JBCA), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr Rob Lyon. My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (DARA) Big Data project. My research interests include developing automated pipeline using machine learning for classification purposes in image domain (Computer Vision) & time domain Astronomy (temporal analysis) and in imbalanced machine learning problems. </p>
+<p align="justify"> I am currently a <b>PhD Candidate</b> at Jodrell Bank Centre for Astrophysics ([JBCA](http://www.jodrellbank.manchester.ac.uk/)), the University of Manchester, working under the supervision of Prof. Benjamin Stappers and Dr [Rob Lyon](http://www.scienceguyrob.com/). My PhD research is supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy ([DARA Big Data](https://www.darabigdata.com/)) project. My research interests include developing automated pipeline using machine learning for classification purposes in image domain (Computer Vision) & time domain Astronomy (temporal analysis) and in imbalanced machine learning problems. </p>
   
-<p style='text-align: justify;'>In addition, I have a strong zeal in developing machine learning algorithms for sustainability development using geospatial data. More specifically tackling climate change problems, for instance, land cover mapping problems, risk analysis of certain regions using geospatial images (flooding, heatwaves, wildfires ...) and performing temporal anaylsis of Greenhouse Gas (GHG) emission at various geolocations using satellite data.</p>
+<p align="justify">In addition, I have a strong zeal in developing machine learning algorithms for sustainability development using geospatial data. More specifically tackling climate change problems, for instance, land cover mapping problems, risk analysis of certain regions using geospatial images (flooding, heatwaves, wildfires ...) and performing temporal anaylsis of Greenhouse Gas (GHG) emission at various geolocations using satellite data.</p>
 
 
-Moreover, I also undertake some Natural Language Process (NLP) projects involving automated process of understanding and interpreting unstructured data, for example, 
+<p align="justify">Moreover, I also undertake some Natural Language Process (NLP) projects involving automated process of understanding and interpreting unstructured data, for example, 
   - sentences & word count, 
   - frequency of unique word, 
   - N-grams: use of content-tagging & word prediction,
-  - Text scoring: output polarity & subjectivity.
+  - Text scoring: output polarity & subjectivity.</p>
 
 
 ### My Background
 
-<p style='text-align: justify;'> 
+<p align="justify"> 
 Born in Mauritius, a tropical and paradise Island, I did my undergraduate studies in Physics at the University of Mauritius. Afterwards, I have been awarded two the prestigious awards: the Square Kilometre Array (SKA) and North-West University Master bursaries, where I embarked on an MSc in Astrophysics and Space Science at the University of Cape Town and North-West University. 
 </p>
 
