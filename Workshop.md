@@ -6,7 +6,7 @@ title: Workshops Participated
 
 ## Google Sandbox
 
-![Google1](/assets/img/Google1.png){% width=350 align="right" %}
+![Google1](/assets/img/Google1.png =250x){: style="float:right"}
 
 
 
