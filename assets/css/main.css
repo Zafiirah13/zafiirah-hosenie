@@ -361,19 +361,19 @@ footer .footer-custom-content {
 
 .post-preview .post-title {
   font-size: 20px;
-  margin-top: 0px;#0
+  margin-top: 0px;
 }
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 100px;#10
+  margin-bottom: 10px;#10
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
   font-size: 15px;
   font-style: italic;
-  margin: 0 0 100px;#100px
+  margin: 0 0 10px;#100px
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -541,14 +541,14 @@ footer .footer-custom-content {
     margin-top: 130px;
   }
   .intro-header.big-img {
-    margin-top: 91px; /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 200px; #91px/* Full navbar is small navbar + 20px padding on each side when expanded */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
     padding: 25px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 30px;
+    font-size: 35px;
   }
   .intro-header .post-heading h1 {
     font-size: 15px;
