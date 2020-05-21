@@ -6,12 +6,10 @@ title: Workshops Participated
 
 ## Google Sandbox
 
-![DCGAN_FRI](/assets/img/Google1.png){% width=350 align="right" %}
+![Google1](/assets/img/Google1.png){% width=350 align="right" %}
 
 
 
-<p align="justify"> I have spent roughly one and a half year in Cape Town. I have had the opportunity to attend various conferences and workshops where I have met amazing people. The cool thing is that I got to learn about several cultures and traditions. </p>
-
-<p align="justify"> The SKA SA (Square Kilometre Array South Africa) conference is held every year. Students, funded by the SKA SA bursaries attend the conference and share their research. Some of them give talks while there are also poster sessions. </p>
-
-<p align="justify">Briefly, the <a href="https://www.skatelescope.org/">SKA</a> (Square Kilometre Array) is going to be the world's largest radio telescope to be built on Earth and will be located on the African continent. The major reason for gathering students from Africa is to promote Human Capital Development throughout the continent.</p>
+<p align="justify">  <a href="https://events.withgoogle.com/sandbox-manchester-united-kingdom/#content">SKA</a> Google Sandbox was organised on the 8<sup>th</sup> February 2020. It waa a great experience in attending this event where I have learnt a lot about several topics, for instance, Site Reliability Engineering (SRE), using containers in Kuvernetes Engine among others. In additio, I had the oppportunity to participate in one of the hands-on workshop: <b>Kubernetes workshop: Orchestrating the Cloud with Kubernetes</b>. In the latter, it was my first experience with deploying containers, provisioning a complete Kubernetes cluster using Kubernetes Engine and then breaking the application down into Microservices. It was an amazing event where I have learnt lots of new topics.</p>
+  
+ 
