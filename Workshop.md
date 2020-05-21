@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Workshops Participated
-image: /assets/img/
 ---
 
 
 ## Google Sandbox
 
 
-{% include image.html url="Google1.png" caption="Hydra A" width=350 align="right" %}
+{% include image.html url="/assets/img/Google1.png" caption="Hydra A" width=350 align="right" %}
 
 
 <p align="justify"> I have spent roughly one and a half year in Cape Town. I have had the opportunity to attend various conferences and workshops where I have met amazing people. The cool thing is that I got to learn about several cultures and traditions. </p>
