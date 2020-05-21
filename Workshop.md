@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops Participated
-permalink: /assets/img/
+image: /assets/img/
 ---
 
 
