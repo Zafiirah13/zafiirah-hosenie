@@ -4,7 +4,8 @@ title: Workshops Participated
 ---
 ## Google Sandbox
 
-{% include image.html url="SKASA2015.jpg" caption="Google Sandbox Event" width=400 align="right" %}
+{% include image.html url="../assets/img/DCGAN_FRII.png" caption="Google Sandbox Event" width=400 align="right" %}
+
 
 <p align="justify"> I have spent roughly one and a half year in Cape Town. I have had the opportunity to attend various conferences and workshops where I have met amazing people. The cool thing is that I got to learn about several cultures and traditions. </p>
 
