@@ -486,7 +486,7 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading {
   text-align: center;
-  font-size: 10px;
+  font-size: 80px;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -496,11 +496,11 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 30px;
+  font-size: 50px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 20px;
+  font-size: 27px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -549,10 +549,10 @@ footer .footer-custom-content {
     padding: 15px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 20px;
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 10px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
