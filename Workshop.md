@@ -11,7 +11,9 @@ title: Workshops Participated
 
 I am fortunate to be able to attend the Deep Learning Indaba in Johanesburg. 
 ![prize](/assets/img/Prize-DL.png){: style="float: left"}
-![Nando-sign-book](/assets/img/Nando-Giving-Talks.png){: style="float: left"}
+![Nando-sign-book](/assets/img/Nando-signingBook.png){: style="float: left"}
+![Nando-note](/assets/img/Nando-Sign-book.png){: style="float: left"}
+![Nando-presentation](/assets/img/Nando-Giving-Talks.png){: style="float: left"}
 ![Women-in-ML](/assets/img/Women-in-ML.png){: style="float: left"}
 ![Google-OfficeL](/assets/img/Google-Office-Joburg.png){: style="float: left"}
 
