@@ -495,15 +495,15 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 30px;
+  font-size: 25px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 20px;
+  font-size: 18px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
