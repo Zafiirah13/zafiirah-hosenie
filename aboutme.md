@@ -18,7 +18,7 @@ title:
 ### My Background
 
 <p align="justify"> 
-Born in Mauritius, a tropical and paradise Island, I did my undergraduate studies in Physics at the University of Mauritius. Afterwards, I have been awarded two the prestigious awards: the Square Kilometre Array (SKA) and North-West University Master bursaries, where I embarked on an MSc in Astrophysics and Space Science at the University of Cape Town and North-West University. 
+Born in Mauritius, a tropical and paradise Island, I did my undergraduate studies in Physics at the University of Mauritius. Afterwards, I have been awarded two prestigious awards: the Square Kilometre Array (SKA) and North-West University Master bursaries, where I embarked on an MSc in Astrophysics and Space Science at the University of Cape Town and North-West University. 
 </p>
 
 ### Experience
