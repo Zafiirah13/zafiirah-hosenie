@@ -11,14 +11,10 @@ title: Workshops Participated
 
 <p align="justify">I am fortunate to be able to attend the <a href="https://deeplearningindaba.com/blog/2017/07/strengthening-african-machine-learning/">first Deep Learning Indaba</a> in 2017 held in Johannesburg. During the conference, I have presented my research work on classifying FRI and FRII radio sources using Convolutional Neural Network work and also shows the first application of Generative Adversarial Network to augment radio images. </p>
 
-<p align="justify">At the end of the conference, I have been selected among the best poster presentations and have been awarded the 'Machine Learning: A probabilistic Perspective" Book as can be seen in the pictures. During the five days workshop, I have had the opportunity to meet lots of people, among whom is  <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/"> Nando de Freitas</a>, who has kindly written an encouraging note in my awarded book making it more special. </p>
+<p align="justify">At the end of the conference, I have been selected among the best poster presentations and have been awarded the 'Machine Learning: A probabilistic Perspective" Book as can be seen in the pictures. During the five days workshop, I have had the opportunity to meet lots of people, among whom is  <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/"> Nando de Freitas</a>, who has kindly written an encouraging note in my awarded book. </p>
 
-![prize](/assets/img/Prize-DL.jpg)
-![Nando-sign-book](/assets/img/Nando-signingBook.jpeg)
-![Nando-note](/assets/img/Nando-Sign-book.jpg)
-![Nando-presentation](/assets/img/Nando-Giving-Talks.jpg)
-![Women-in-ML](/assets/img/Women-in-ML.jpeg)
-![Google-OfficeL](/assets/img/Google-Office-Joburg.jpg)
+![summary_Deep_Learning_indaba](/assets/img/summary_DeepLearning_Indaba.png)
+
 
 
 
