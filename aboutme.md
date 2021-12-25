@@ -49,15 +49,13 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 - Using the GISS Surface Temperature Analysis data (NedCDF format), extract temperature at point coordinates and analyse over a period of time using machine learning techniques.
 
-#### 2. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK
+#### 2. <span style="color:blue"> ***Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK***</span>
 
 <p align="justify"> My research was mainly focused on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity. </p>
 
-#### 3. Teaching Assistant (Sep 2018 - Jan 2019) - The University of Manchester, Manchester UK
+#### 2. <span style="color:blue"> ***Teaching Assistant (Sep 2018 - Jan 2019) - The University of Manchester, Manchester UK***</span>
 
-#### 4. Education Officer (Jan 2015 - Jan 2016) - OCEP College, Mauritius
-
-
+#### 2. <span style="color:blue"> ***Education Officer (Jan 2015 - Jan 2016) - OCEP College, Mauritius***</span>
 
 ### Skills
 - Programming skills: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
