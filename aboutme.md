@@ -24,7 +24,8 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 ### Experience
 
 #### 1. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK
-![#1589F0]`Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK`
+
+<span style="color:blue"> ***Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK***</span>
 
 <p align="justify"> A FinTech firm: analysing and evaluating climate, sustainability and the associated financial risks using machine learning to generate actionable insights from vast data sets. </p>
 
