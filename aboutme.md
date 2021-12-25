@@ -23,6 +23,11 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 ### Experience
 
+#### 1. Machine Learning Researcher (May 2018 - April 2021)
+The University of Manchester
+
+My research mainly focuses on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity.
+
 #### 1. Teaching Assistant (Sep 2018 - Jan 2019)
 The University of Manchester
 
