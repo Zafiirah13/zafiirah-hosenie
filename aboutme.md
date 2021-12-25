@@ -32,6 +32,8 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 - Using Quantum Geographic Information system (QGIS) to annotate pixels in the images into categories, water, farm, forest...
 - Feature Engineering approaches: Normalized Difference Vegetation Index (NDVI), Normalized Difference Water Index (NDWI) and Normalized Difference Build-Up Index (NDBI).
 - Use Random Forest algorithm and perform classification.
+- ![Google1](/assets/img/pixelclassification.jpeg)
+
 
 <b>Project 2: Analysing Greenhouse Gas emission over point locations</b>
 
