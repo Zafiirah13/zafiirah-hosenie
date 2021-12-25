@@ -33,6 +33,22 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 - Feature Engineering approaches: Normalized Difference Vegetation Index (NDVI), Normalized Difference Water Index (NDWI) and Normalized Difference Build-Up Index (NDBI).
 - Use Random Forest algorithm and perform classification.
 
+<b>Project 2: Analysing Greenhouse Gas emission over point locations</b>
+
+- Use Sentinel 5P dataset.
+- Develop an automated pipeline to query data for Greenhouse Gas emission at point coordinates using Google Earth Engine (GEE) platform.
+- Develop a machine learning approach using Gaussian Process for analysing the variation in greenhouse gas emission over a period of time. Uncertainty quantification is an important output from the model.
+
+<b>Project 3: Exploring World Resource Institute (WRI) Data</b>
+
+- Query global power plant, more specifically oil, gas and coal power plants.
+- Develop a name-matching algorithm using Natural Language processing (NLP) techniques to match names of global power plants from WRI data to CDP Climate Change questionnaire. Based on the scoring, extract power plant capacity.
+- Compute Emission intensity for each power plant. Assign a Grading level to each plant based on the emission intensity.
+
+<b>Project 4: Time-series analysis for Temperature Anomaly</b>
+
+- Using the GISS Surface Temperature Analysis data (NedCDF format), extract temperature at point coordinates and analyse over a period of time using machine learning techniques.
+
 #### 1. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK
 
 <p align="justify"> My research was mainly focused on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity. </p>
