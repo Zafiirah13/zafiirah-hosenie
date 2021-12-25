@@ -23,16 +23,21 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 ### Experience
 
-#### 1. Machine Learning Researcher (May 2018 - April 2021)
-The University of Manchester
+#### 1. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021)
+##### Arcturus ESG Ltd, London UK
 
-My research mainly focuses on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity.
+<p align="justify"> A FinTech firm: analysing and evaluating climate, sustainability and the associated financial risks using machine learning to generate actionable insights from vast data sets. </p>
+
+#### 1. Machine Learning Researcher (May 2018 - April 2021)
+##### The University of Manchester, Manchester UK
+
+<p align="justify"> My research was mainly focused on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity. </p>
 
 #### 1. Teaching Assistant (Sep 2018 - Jan 2019)
-The University of Manchester
+##### The University of Manchester, Manchester UK
 
 #### 2. Education Officer (Jan 2015 - Jan 2016)
-OCEP College, Mauritius
+##### OCEP College, Mauritius
 
 
 ### Skills
