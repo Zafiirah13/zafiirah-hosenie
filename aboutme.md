@@ -59,9 +59,12 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 #### <span style="color:blue"> ***4. Education Officer (Jan 2015 - Jan 2016) - OCEP College, Mauritius***</span>
 <p align="justify"> Responsibilities include mentoring lower and higher secondary students Physics, Mathematics, Biology and Physical Education.</p>
 
-
 ### Skills
-- Programming skills: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Python libraries 
-- Geospatial projects: Google Earth Engine, Climate Data Store toolbox
-- NLP projects: NLTK, SpaCy.
+- <b>IT Skills</b>: Python (PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib), Latex, Matlab, Fortran, R, Microsoft Office (Word, Excel, Powerpoint).
+- <b>Cloud Computing</b>: Microsoft Azure ML, AWS (beginner), and Google (beginner).
+- <b>Project Management</b>: Scrum Master using Scrum Methodology with Trello as platform and Slack.
+- <b>Machine Learning methods</b>: Multi-step, single-step, autoregressive multi-output forecasting models using 1D CNN, Pixel-based image classification using Random Forest, Support Vector Machines, Localization and detec- tion of objects using 2D CNN, classification and time-series modelling using Kernel Methods.
+- <b>Geospatial projects</b>: Google Earth Engine, Climate Data Store toolbox,
+- <b>NLP projects</b>: NLTK, SpaCy,
+- <b>Interests</b>: Sustainability development, FinTech, Health Care, climate change and Renewable Energy research, Image & Big Data Analytics, and Statistics
 
