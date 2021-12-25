@@ -50,8 +50,9 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 <b>Project 4: Time-series analysis for Temperature Anomaly</b>
 
+![Google1](/assets/img/Temp_heatmap.jpeg) 
 - Using the GISS Surface Temperature Analysis data (NedCDF format), extract temperature at point coordinates and analyse over a period of time using machine learning techniques.
- ![Google1](/assets/img/Temp_heatmap.jpeg) ![Google1](/assets/img/Temp_anomaly.jpeg)
+![Google1](/assets/img/Temp_anomaly.jpeg)
  
  
 #### <span style="color:blue"> ***2. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK***</span>
