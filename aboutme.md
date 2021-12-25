@@ -32,7 +32,8 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 - Using Quantum Geographic Information system (QGIS) to annotate pixels in the images into categories, water, farm, forest...
 - Feature Engineering approaches: Normalized Difference Vegetation Index (NDVI), Normalized Difference Water Index (NDWI) and Normalized Difference Build-Up Index (NDBI).
 - Use Random Forest algorithm and perform classification.
-- ![Google1](/assets/img/pixelclassification.jpeg)
+
+![Google1](/assets/img/pixelclassification.jpeg)
 
 
 <b>Project 2: Analysing Greenhouse Gas emission over point locations</b>
@@ -50,7 +51,9 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 <b>Project 4: Time-series analysis for Temperature Anomaly</b>
 
 - Using the GISS Surface Temperature Analysis data (NedCDF format), extract temperature at point coordinates and analyse over a period of time using machine learning techniques.
-
+ ![Google1](/assets/img/Temp_heatmap.jpeg) ![Google1](/assets/img/Temp_anomaly.jpeg)
+ 
+ 
 #### <span style="color:blue"> ***2. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK***</span>
 
 <p align="justify"> My research was mainly focused on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity. </p>
