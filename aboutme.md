@@ -24,7 +24,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 ### Experience
 
 #### 1. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK
-
+<span style="color:blue"> ***Zafiirah Hosenie***</span>
 <span style="color:blue"> ***Consultant***</span>
 
 <p align="justify"> A FinTech firm: analysing and evaluating climate, sustainability and the associated financial risks using machine learning to generate actionable insights from vast data sets. </p>
