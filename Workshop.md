@@ -3,6 +3,11 @@ layout: page
 title: Workshops Participated
 ---
 
+## Microsoft Global Hackathon 2021
+Microsoft organised this Hackathon and it was kicked off in all regions of the globe and thousands of employees were hacking with colleagues, nonprofits, and customers, tapping into creativity, inspiration, and the power of collaboration. I had the opportunity to participate and work in collobaration with other team members on a particular project for three days. By the end, I was absolutely delighted, and very proud, to see that our project had won the <b>overall Grand Prize </b> this year!. The badge can be accessed on <a href="https://www.credly.com/badges/dcc85600-ceef-495b-9fd0-0c332171658c">Global Hackathon 2021 Grand Prize Winner</a>.
+
+![Microsoft](/assets/img/certificate-hackathon.png)
+
 
 ## Google Sandbox
 <p align="justify"><a href="https://events.withgoogle.com/sandbox-manchester-united-kingdom/#content">Google Sandbox</a> was organised on the 8<sup>th</sup> February 2020. It was a great experience in attending this event where I have learnt a lot about several topics, for instance, Site Reliability Engineering (SRE), using containers in Kubernetes Engine among others. In addition, I had the oppportunity to participate in one of the hands-on workshop: <b>Kubernetes workshop: Orchestrating the Cloud with Kubernetes</b>. In the latter, it was my first experience with deploying containers, provisioning a complete Kubernetes cluster using Kubernetes Engine and then breaking the application down into Microservices.</p>
