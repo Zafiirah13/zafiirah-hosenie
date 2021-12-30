@@ -4,7 +4,7 @@ title: Workshops Participated
 ---
 
 ## Microsoft Global Hackathon 2021
-<p align="justify"> Microsoft organised this Hackathon and it was kicked off in all regions of the globe and thousands of employees were hacking with colleagues, nonprofits, and customers, tapping into creativity, inspiration, and the power of collaboration. I had the opportunity to participate and work in collobaration with other team members on a particular project for three days. By the end, I was absolutely delighted, and very proud, to see that our project had won the <b>overall Grand Prize </b> this year!. The badge can be accessed on <a href="https://www.credly.com/badges/dcc85600-ceef-495b-9fd0-0c332171658c">Global Hackathon 2021 Grand Prize Winner</a>.</p>
+<p align="justify"> Microsoft organised this Hackathon and it was kicked off in all regions of the globe and thousands of employees were hacking with colleagues, nonprofits, and customers, tapping into creativity, inspiration, and the power of collaboration. I had the opportunity to participate and work in collaboration with other team members on a particular project for three days. By the end, I was absolutely delighted, and very proud, to see that our project had won the <b>overall Grand Prize </b> this year!. The badge can be accessed on <a href="https://www.credly.com/badges/dcc85600-ceef-495b-9fd0-0c332171658c">Global Hackathon 2021 Grand Prize Winner</a>.</p>
 
 ![Microsoft](/assets/img/certificate-hackathon.png)
 
