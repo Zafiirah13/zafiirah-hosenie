@@ -12,6 +12,14 @@ title: Honors and Awards
 
 ![Microsoft](/assets/img/certificate-hackathon.png)
 
+## PhD Scholarship - Newton Fund UK
+<p align="justify"> I have been awarded the <a href="https://www.darabigdata.com/">DARA Big Data</a> PhD Schorlarship - this is a competitive scholarship as it was awarded to only three candidates.
+  
+DARA Big Data’s remit is to equip students in those 8 countries with the skills to translate and analyse the huge amounts of data that will be produced by the telescope. These skills are applicable in many other areas; training covers not only astronomy but also agriculture, medical sciences and data-driven policy-making. The project is led by Prof Anna Scaife of the Jodrell Bank Centre for Astrophysics (JBCA) at the University of Manchester, and works collaboratively with partner organisations in South Africa and Universities across the UK (Leeds, Hertfordshire, Sussex, York). 
+
+The project's aim is to ensure that African students can participate fully in the technological advances of what is often called the Fourth Industrial Revolution (4IR); the rapid global shift that extensively uses AI, robotics and the billions of smart devices connected to the ‘Internet of Things’. 
+</p>
+
 
 
 
