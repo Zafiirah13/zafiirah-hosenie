@@ -25,17 +25,17 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 #### <span style="color:blue"> ***1. Research Scientist (May 2022 - Present) - Microsoft Research Lab, Cambridge, UK***</span>
 
-<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
+<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product... </p>
 
-#### <span style="color:blue"> ***1. Post-Doc Scientist (July 2021 - April 2022) - Microsoft Research Lab, Cambridge, UK***</span>
+#### <span style="color:blue"> ***2. Post-Doc Scientist (July 2021 - April 2022) - Microsoft Research Lab, Cambridge, UK***</span>
 
-<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
+<p align="justify">  Applied a classification model for predicting facial attributes corresponding to human faces (hair-style, glasses, facial haie-style, eyebrows, and head wear.</p>
 
-#### <span style="color:blue"> ***1. Research Intern (April 2021 - June 2021) - Microsoft Research Lab, Cambridge, UK***</span>
+#### <span style="color:blue"> ***3. Research Intern (April 2021 - June 2021) - Microsoft Research Lab, Cambridge, UK***</span>
 
-<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
+<p align="justify"> Developped temporal prior models (autoregressive forecasting algorithms) to improve face tracking API.</p>
 
-#### <span style="color:blue"> ***1. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK***</span>
+#### <span style="color:blue"> ***4. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK***</span>
 
 <p align="justify"> A FinTech firm: analysing and evaluating climate, sustainability and the associated financial risks using machine learning to generate actionable insights from vast data sets. </p>
 
@@ -67,14 +67,14 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 ![Google1](/assets/img/Temp_anomaly.jpeg)
  
  
-#### <span style="color:blue"> ***2. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK***</span>
+#### <span style="color:blue"> ***5. Machine Learning Researcher (May 2018 - April 2021) - The University of Manchester, Manchester UK***</span>
 
 <p align="justify"> My research was mainly focused on the development of various machine learning softwares that can quickly and efficiently provide classification labels for several new object classification challenges for large-scale surveys. These softwares are integrated in optical (MeerLICHT) and radio (MeerKAT) telescopes. This is fundamentally important for various reasons. These surveys are already generating from petabytes to exabytes of data per day, therefore, it is crucial to have a rapid follow-up of detected objects and analysing most interesting candidates. Sifting through the gigantesque of data will be almost impossible for astronomers, therefore ML is helpful in reducing the human-labour which are admittedly error-prone and decreases the computational complexity. </p>
 
-#### <span style="color:blue"> ***3. Teaching Assistant (Sep 2018 - Jan 2019) - The University of Manchester, Manchester UK***</span>
+#### <span style="color:blue"> ***6. Teaching Assistant (Sep 2018 - Jan 2019) - The University of Manchester, Manchester UK***</span>
 <p align="justify"> Examination room and set-up computers for student to use during exams.</p>
 
-#### <span style="color:blue"> ***4. Education Officer (Jan 2015 - Jan 2016) - OCEP College, Mauritius***</span>
+#### <span style="color:blue"> ***7. Education Officer (Jan 2015 - Jan 2016) - OCEP College, Mauritius***</span>
 <p align="justify"> Responsibilities include mentoring lower and higher secondary students Physics, Mathematics, Biology and Physical Education.</p>
 
 ### Skills
