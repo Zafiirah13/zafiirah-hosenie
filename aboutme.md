@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-<p align="justify"> I am a <b>Post-Doc Scientist</b> at Microsoft Research Lab, Cambridge, working in the <a href="https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-lab-cambridge/">Mixed Reality and AI</a> field. I have completed a <b>PhD</b> in Machine Learning for Astronomy at Jodrell Bank Centre for Astrophysics (<a href="http://www.jodrellbank.manchester.ac.uk/">JBCA</a>), the University of Manchester. I worked under the supervision of Prof. Benjamin Stappers and Dr <a href="http://www.scienceguyrob.com/">Rob Lyon</a> and my PhD research was supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (<a href="https://www.darabigdata.com/">DARA Big Data</a>) project. My research interests include developing automated pipeline using machine learning for classification purposes in image domain (Computer Vision) & time domain Astronomy (temporal analysis) and in imbalanced machine learning problems. I am also a <a href="https://www.womentech.net/global-ambassadors/United%20Kingdom/Zafiirah/Hosenie">Global Ambassador</a> at <a href="https://www.womentech.net/">WomenTech network</a>. </p>
+<p align="justify"> I am a <b>Research Scientist</b> at Microsoft Research Lab, Cambridge, working in the <a href="https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-lab-cambridge/">Mixed Reality and AI</a> field. I have completed a <b>PhD</b> in Machine Learning for Astronomy at Jodrell Bank Centre for Astrophysics (<a href="http://www.jodrellbank.manchester.ac.uk/">JBCA</a>), the University of Manchester. I worked under the supervision of Prof. Benjamin Stappers and Dr <a href="http://www.scienceguyrob.com/">Rob Lyon</a> and my PhD research was supported by UK Newton Fund as part of the Development in Africa with Radio Astronomy (<a href="https://www.darabigdata.com/">DARA Big Data</a>) project. My research interests include developing automated pipeline using machine learning for classification purposes in image domain (Computer Vision) & time domain Astronomy (temporal analysis) and in imbalanced machine learning problems. I am also a <a href="https://www.womentech.net/global-ambassadors/United%20Kingdom/Zafiirah/Hosenie">Global Ambassador</a> at <a href="https://www.womentech.net/">WomenTech network</a>. </p>
   
 <p align="justify">In addition, I have a strong zeal in developing machine learning algorithms for sustainability development using geospatial data. More specifically tackling climate change problems, for instance, land cover mapping problems, risk analysis of certain regions using geospatial images (flooding, heatwaves, wildfires ...) and performing temporal anaylsis of Greenhouse Gas (GHG) emission at various geolocations using satellite data.</p>
 
@@ -22,6 +22,18 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 </p>
 
 ### Experience
+
+#### <span style="color:blue"> ***1. Research Scientist (May 2022 - Present) - Microsoft Research Lab, Cambridge, UK***</span>
+
+<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
+
+#### <span style="color:blue"> ***1. Post-Doc Scientist (July 2021 - April 2022) - Microsoft Research Lab, Cambridge, UK***</span>
+
+<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
+
+#### <span style="color:blue"> ***1. Research Intern (April 2021 - June 2021) - Microsoft Research Lab, Cambridge, UK***</span>
+
+<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product.. </p>
 
 #### <span style="color:blue"> ***1. Consultant: Lead Data Scientist (Nov 2019 - Jan 2021) - Arcturus ESG Ltd, London UK***</span>
 
