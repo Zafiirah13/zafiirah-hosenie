@@ -25,7 +25,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 #### <span style="color:blue"> ***1. Research Scientist (May 2022 - Present) - Microsoft Research Lab, Cambridge, UK***</span>
 
-<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh </a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product... </p>
+<p align="justify"> The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh</a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product... </p>
 
 #### <span style="color:blue"> ***2. Post-Doc Scientist (July 2021 - April 2022) - Microsoft Research Lab, Cambridge, UK***</span>
 
