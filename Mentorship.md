@@ -13,7 +13,7 @@ title: Mentorship in Data Science
 During the hackathod, I provided support and advice to the participants. Everyone worked through several tutorials during the day using the cloud computing platform provided by IDIA. The next few days, they began to work on the hackathon task, which was to use data scraped from Twitter to analyse sentiment on a COVID19-related topic.</p>
 
 ![BDM](/assets/img/BDM-3.jpg)
-Hackathon tutors r to l; Dr Nikhita Madhanpall, Linxi Stirrup, David Bastien, Dr Arrykrishna Mootoovaloo & Dr Zafiirah Hosenie
+Hackathon tutors r to l; Dr Nikhita Madhanpall,  David Bastien, Linxi Stirrup, Dr Zafiirah Hosenie & Dr Arrykrishna Mootoovaloo 
 ![BDM2](/assets/img/BDM-2.jpg)
 Awarding Best Presenter Prize to Love Achondo.
 ![BDM3](/assets/img/BDM-1.jpg)
