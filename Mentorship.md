@@ -15,8 +15,10 @@ title: Mentorship in Data Science
 ## Africa Women in Data Science, 8 – 10 March 2022
 <p align="justify"> <a href="https://www.darabigdata.com/">DARA Big Data</a> hosted its first African-focused Women in Data Science event. The event consisted of a one-day plenary session coinciding with International Women’s Day on Tuesday 8 March 2022, which additionally marks one year since the release of the SARAO Women in Data Science report. This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.
  
- ![WDS](/assets/img/Team 4 - 1.png)![WDS1](/assets/img/Team4_ppt.png)
- ![WDS2](/assets/img/Team 1 - 1.png)![WDS3](/assets/img/Team1_ppt.png)
+ ![WDS](/assets/img/Team 4 - 1.png)
+ ![WDS1](/assets/img/Team4_ppt.png)
+ ![WDS2](/assets/img/Team 1 - 1.png)
+ ![WDS3](/assets/img/Team1_ppt.png)
 
 
 </p>
