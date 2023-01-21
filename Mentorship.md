@@ -13,7 +13,7 @@ title: Mentorship in Data Science
 ![Microsoft](/assets/img/certificate-hackathon.png)
 
 ## Africa Women in Data Science, 8 – 10 March 2022
-<p align="justify"> <a href="https://www.darabigdata.com/">DARA Big Data</a> hosted its first African-focused Women in Data Science event. The event consisted of a one-day plenary session coinciding with International Women’s Day on Tuesday 8 March 2022, which additionally marks one year since the release of the SARAO Women in Data Science report. This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.
+<p align="justify"> <a href="https://www.darabigdata.com/">DARA Big Data</a> hosted its first African-focused Women in Data Science event. The event consisted of a one-day plenary session coinciding with International Women’s Day on Tuesday 8 March 2022, which additionally marks one year since the release of the SARAO Women in Data Science report. This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.</p>
  
 ![WDS](/assets/img/Team4.png)
 ![WDS1](/assets/img/Team4_ppt.png)
@@ -21,12 +21,9 @@ title: Mentorship in Data Science
 ![WDS3](/assets/img/Team1_ppt.png)
 
 
-</p>
-
 ## 3rd Big Data Africa School, Cape Town, 6 - 16 Oct 2019
-<p align="justify"> The 3rd Big Data Africa School 2019, organised by <a href="https://www.sarao.ac.za/media-releases/sarao-upskilling-africas-bright-young-minds-in-big-data/">SARAO</a>, introduced fundamental data science tools and techniques to 25 talented young science and engineering graduates from South Africa and the 8 SKA Africa Partner countries. The School aims to develop student skills in working with extremely large datasets in any given research environment.
+<p align="justify"> The 3rd Big Data Africa School 2019, organised by <a href="https://www.sarao.ac.za/media-releases/sarao-upskilling-africas-bright-young-minds-in-big-data/">SARAO</a>, introduced fundamental data science tools and techniques to 25 talented young science and engineering graduates from South Africa and the 8 SKA Africa Partner countries. The School aims to develop student skills in working with extremely large datasets in any given research environment.</p>
 
-![CapeTownBigData](/assets/img/CapeTownBigdata.png)
+![CapeTownBigData](/assets/img/CapeTownBigdata.jpg)
 
-In the school, I was mentoring a group of students, working on sustainable agriculture project. Each day we brainstormed the project and split the tasks among the students. They worked over a period of six days to solve  the assigned problems using real life datasets, culminating in a day where they presented their findings to a panel of experts and their fellow attendees.
-</p>
+<p align="justify"> In the school, I was mentoring a group of students, working on sustainable agriculture project. Each day we brainstormed the project and split the tasks among the students. They worked over a period of six days to solve  the assigned problems using real life datasets, culminating in a day where they presented their findings to a panel of experts and their fellow attendees.</p>
