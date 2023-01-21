@@ -12,10 +12,11 @@ title: Mentorship in Data Science
 
 During the hackathod, I provided support and advice to the participants. Everyone worked through several tutorials during the day using the cloud computing platform provided by IDIA. The next few days, they began to work on the hackathon task, which was to use data scraped from Twitter to analyse sentiment on a COVID19-related topic.</p>
 
-![BDM](/assets/img/BDM-3.png)
-![BDM](/assets/img/BDM-2.png)
-![BDM](/assets/img/BDM-1.png)
-![BDM](/assets/img/BDM-4.png)
+![BDM](/assets/img/BDM-3.jpg)
+Hackathon tutors r to l; Dr Nikhita Madhanpall, Linxi Stirrup, David Bastien, Dr Arrykrishna Mootoovaloo & Dr Zafiirah Hosenie
+![BDM2](/assets/img/BDM-2.jpg)
+![BDM3](/assets/img/BDM-1.jpg)
+![BDM4](/assets/img/BDM-4.jpg)
 
 ## Africa Women in Data Science, 8 – 10 March 2022
 <p align="justify"> <a href="https://www.darabigdata.com/">DARA Big Data</a> hosted its first African-focused Women in Data Science event. The event consisted of a one-day plenary session coinciding with International Women’s Day on Tuesday 8 March 2022, which additionally marks one year since the release of the SARAO Women in Data Science report. This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.</p>
