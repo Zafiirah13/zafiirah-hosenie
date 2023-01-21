@@ -21,8 +21,9 @@ The project's aim is to ensure that African students can participate fully in th
 </p>
 
 ## 3rd Big Data Africa School, Cape Town, 6 - 16 Oct 2019
-The 3rd Big Data Africa School 2019, organised by <a href="https://www.sarao.ac.za/media-releases/sarao-upskilling-africas-bright-young-minds-in-big-data/">SARAO</a>, introduced fundamental data science tools and techniques to 25 talented young science and engineering graduates from South Africa and the 8 SKA Africa Partner countries. The School aims to develop student skills in working with extremely large datasets in any given research environment.
+<p align="justify"> The 3rd Big Data Africa School 2019, organised by <a href="https://www.sarao.ac.za/media-releases/sarao-upskilling-africas-bright-young-minds-in-big-data/">SARAO</a>, introduced fundamental data science tools and techniques to 25 talented young science and engineering graduates from South Africa and the 8 SKA Africa Partner countries. The School aims to develop student skills in working with extremely large datasets in any given research environment.
 
 ![CapeTownBigData](/assets/img/CapeTownBigdata.png)
 
 In the school, I was mentoring a group of students, working on sustainable agriculture project. Each day we brainstormed the project and split the tasks among the students. They worked over a period of six days to solve  the assigned problems using real life datasets, culminating in a day where they presented their findings to a panel of experts and their fellow attendees.
+</p>
