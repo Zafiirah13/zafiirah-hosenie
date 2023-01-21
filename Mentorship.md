@@ -15,6 +15,7 @@ During the hackathod, I provided support and advice to the participants. Everyon
 ![BDM](/assets/img/BDM-3.jpg)
 Hackathon tutors r to l; Dr Nikhita Madhanpall, Linxi Stirrup, David Bastien, Dr Arrykrishna Mootoovaloo & Dr Zafiirah Hosenie
 ![BDM2](/assets/img/BDM-2.jpg)
+Awarding Best Presenter Prize to Love Achondo.
 ![BDM3](/assets/img/BDM-1.jpg)
 ![BDM4](/assets/img/BDM-4.jpg)
 
