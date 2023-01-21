@@ -7,10 +7,15 @@ title: Mentorship in Data Science
 
 ![Microsoft](/assets/img/IoP-Prize.png)
 
-## Big Data Mauritius
-<p align="justify"> Microsoft organised this Hackathon and it was kicked off in all regions of the globe and thousands of employees were hacking with colleagues, nonprofits, and customers, tapping into creativity, inspiration, and the power of collaboration. I had the opportunity to participate and work in collaboration with other team members on a particular project for three days. By the end, I was absolutely delighted, and very proud, to see that our project had won the <b>overall Grand Prize </b> this year!. The badge can be accessed on <a href="https://www.credly.com/badges/dcc85600-ceef-495b-9fd0-0c332171658c">Global Hackathon 2021 Grand Prize Winner</a>.</p>
+## Big Data Mauritius 
+<p align="justify"> I was heavily involved in the organisation of the successful Big Data Mauritius event <a href="https://www.darabigdata.com/big-data-mauritius">Big Data Mauritius 2022</a>. The event took the form of a mini data science school, with a day of lectures from industry and academic speakers followed by a 3-day hackathon. I gave a talk ‘From Astronomy to Mixed Reality’, where I detailed my career journey to my current position at the Microsoft Mixed Reality and AI Lab in Cambridge. My talk was mostly about the futuristic work I am involved with at Microsoft, with projects including high-fidelity neural rendering for 3D object creation and the use of synthetic data to create realistic human faces and expressions. 
 
-![Microsoft](/assets/img/certificate-hackathon.png)
+During the hackathod, I provided support and advice to the participants. Everyone worked through several tutorials during the day using the cloud computing platform provided by IDIA. The next few days, they began to work on the hackathon task, which was to use data scraped from Twitter to analyse sentiment on a COVID19-related topic.</p>
+
+![BDM](/assets/img/BDM-3.png)
+![BDM](/assets/img/BDM-2.png)
+![BDM](/assets/img/BDM-1.png)
+![BDM](/assets/img/BDM-4.png)
 
 ## Africa Women in Data Science, 8 – 10 March 2022
 <p align="justify"> <a href="https://www.darabigdata.com/">DARA Big Data</a> hosted its first African-focused Women in Data Science event. The event consisted of a one-day plenary session coinciding with International Women’s Day on Tuesday 8 March 2022, which additionally marks one year since the release of the SARAO Women in Data Science report. This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.</p>
