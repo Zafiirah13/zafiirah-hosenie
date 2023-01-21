@@ -27,7 +27,7 @@ title: Mentorship in Data Science
 ![WDS3](/assets/img/Team1_ppt.png)
 <p align="center">Team 1 during our meeting and the topic they worked on during the hackathon.</p>
  
-<p align="justify">This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base. Pictures of the teams and project title they have worked on during the hackathon.</p>
+<p align="justify">This event was for women with a strong interest in data science from across the African continent. The one-day plenary was then followed by a hackathon event for female participants from the SKA Africa partner countries, which took place on the 9 and 10 March 2022. I acted as a mentor for two independent teams. I have tutored on topics of Data science and Natural Language processing and responded to all questions they have when implementing the code base.</p>
  
 
 ## 3rd Big Data Africa School, Cape Town, 6 - 16 Oct 2019
