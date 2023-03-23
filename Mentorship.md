@@ -2,8 +2,10 @@
 layout: page
 title: Mentorship in Data Science
 ---
+## Likeness Trainer - Part IB of the Computer Science, 19th January - 15th March 2023
+### University of Cambridge and Microsoft
 
-## Big Data Mauritius, 21st June - 25th June
+## Big Data Mauritius, 21st June - 25th June 2022
 ![BDM](/assets/img/BDM-3.jpg)
 <p align="center">Hackathon tutors r to l; Dr Nikhita Madhanpall,  David Bastien, Linxi Stirrup, Dr Zafiirah Hosenie & Dr Arrykrishna Mootoovaloo.</p>
 ![BDM2](/assets/img/BDM-2.jpg)
