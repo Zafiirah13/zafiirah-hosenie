@@ -4,7 +4,18 @@ title: Mentorship in Data Science
 ---
 ## Likeness Trainer, 19th January - 15th March 2023
 ### University of Cambridge and Microsoft
-Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term.
+Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term. The participants are Alex Matthews, Jonathan Haley, Jeffrey Song, Peter Isaksen, Tayo Oluranti-Ahmed and Tunan Shi. The project is described below.
+
+The human visual system is highly evolved to recognise faces even from a few lines. AI systems are improving, but we need more efficient tools to communicate which lines are meaningful to humans. The goal of this project is to create a tool for drawing the most essential lines onto photographed faces, as a starting point for psychological research into this fascinating human skill. The presentation can be accessed at <a href="https://docs.google.com/presentation/d/1xb9R-HoQyHgduZyElQ_9QvYD1KfsS1dfdOP2V7pirKA/edit#slide=id.g216f66293ae_0_31">GoogleDoc: Likeness Trainer</a>. A video demo has been recorded to give a bried description of the project here:
+<iframe
+    width="640"
+    height="480"
+    src="[https://www.youtube.com/embed/UmX4kyB2wfg](https://www.youtube.com/watch?v=WN4g5_n1qyk&list=PLo3AjEPScDOdSmId28gcczAp3IoT1kfnh&index=2)"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ## Big Data Mauritius, 21st June - 25th June 2022
 ![BDM](/assets/img/BDM-3.jpg)
