@@ -2,8 +2,9 @@
 layout: page
 title: Mentorship in Data Science
 ---
-## Likeness Trainer - Part IB of the Computer Science, 19th January - 15th March 2023
+## Likeness Trainer, 19th January - 15th March 2023
 ### University of Cambridge and Microsoft
+Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term.
 
 ## Big Data Mauritius, 21st June - 25th June 2022
 ![BDM](/assets/img/BDM-3.jpg)
