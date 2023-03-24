@@ -4,7 +4,7 @@ title: Mentorship in Data Science
 ---
 ## Likeness Trainer, 19th January - 15th March 2023
 ### University of Cambridge and Microsoft
- <p align="justify">Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term. The participants were Alex Matthews, Jonathan Haley, Jeffrey Song, Peter Isaksen, Tayo Oluranti-Ahmed and Tunan Shi. The project is described below.</p>
+ <p align="justify">Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term. The participants were Alex Matthews, Jonathan Haley, Jeffrey Song, Peter Isaksen, Tayo Oluranti-Ahmed and Tunan Shi. The project we worked on, is described below.</p>
 
 <p align="justify">The human visual system is highly evolved to recognise faces even from a few lines. AI systems are improving, but we need more efficient tools to communicate which lines are meaningful to humans. The goal of this project is to create a tool for drawing the most essential lines onto photographed faces, as a starting point for psychological research into this fascinating human skill.</p>
 
