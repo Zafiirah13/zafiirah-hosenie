@@ -6,23 +6,14 @@ title: Mentorship in Data Science
 ### University of Cambridge and Microsoft
  <p align="justify">Candidates for <a href="https://www.cst.cam.ac.uk/teaching/part-ib/group-projects">Part IB of the Computer Science Tripos</a> are required to undertake a group design project as part of their practical work in Lent term. The participants were Alex Matthews, Jonathan Haley, Jeffrey Song, Peter Isaksen, Tayo Oluranti-Ahmed and Tunan Shi. The project is described below.</p>
 
-<p align="justify">The human visual system is highly evolved to recognise faces even from a few lines. AI systems are improving, but we need more efficient tools to communicate which lines are meaningful to humans. The goal of this project is to create a tool for drawing the most essential lines onto photographed faces, as a starting point for psychological research into this fascinating human skill. 
- Presentation: <a href="https://docs.google.com/presentation/d/1xb9R-HoQyHgduZyElQ_9QvYD1KfsS1dfdOP2V7pirKA/edit#slide=id.g216f66293ae_0_31">GoogleDoc: Likeness Trainer</a>.
-Code: <a href="https://github.com/alexgmatt1/likeness-trainer">GitHub: Likeness Trainer</a>
- 
- A video demo has been recorded to give a brief description of the project here:</p>
- 
- [![Likeness-Trainer](/assets/img/Likeness-Trainer.png)](https://www.youtube.com/watch?v=WN4g5_n1qyk&t=1s)
+<p align="justify">The human visual system is highly evolved to recognise faces even from a few lines. AI systems are improving, but we need more efficient tools to communicate which lines are meaningful to humans. The goal of this project is to create a tool for drawing the most essential lines onto photographed faces, as a starting point for psychological research into this fascinating human skill.</p>
 
-<iframe
-    width="640"
-    height="480"
-    src="[https://www.youtube.com/watch?v=WN4g5_n1qyk&t=1s]()"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<p align="justify">Presentation: <a href="https://docs.google.com/presentation/d/1xb9R-HoQyHgduZyElQ_9QvYD1KfsS1dfdOP2V7pirKA/edit#slide=id.g216f66293ae_0_31">GoogleDoc: Likeness Trainer</a>.</p>
+<p align="justify">Code: <a href="https://github.com/alexgmatt1/likeness-trainer">GitHub: Likeness Trainer</a></p>
+ 
+<p align="justify">A video demo has been recorded to give a brief description of the project here:</p>
+ 
+[![Likeness-Trainer](/assets/img/Likeness-Trainer.png)](https://www.youtube.com/watch?v=WN4g5_n1qyk&t=1s)
 
 ## Big Data Mauritius, 21st June - 25th June 2022
 ![BDM](/assets/img/BDM-3.jpg)
