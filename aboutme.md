@@ -30,7 +30,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 
 • Enrollment systems for meeting-room devices, developing quality scoring, outlier detection metrics, and dashboard-driven evaluation to replace active UI-based enrollment workflows.
 
-• Metricated face identity and multi-person tracking systems, analyzed false positives/negatives and quantify the impact of occlusion, head pose, resolution, and frame rate on deployment performance.The Microsoft Mixed Reality & AI Lab – Cambridge sits at the forefront of research, hardware, and software development in the field of social presence in mixed reality. The mission is to build the technology that powers <a href="https://www.microsoft.com/en-us/mesh">Microsoft Mesh</a>, spanning the spectrum from avatars to holoported representations of people, and from research prototypes to shipping product... </p>
+• Metricated face identity and multi-person tracking systems, analyzed false positives/negatives and quantify the impact of occlusion, head pose, resolution, and frame rate on deployment performance.</p>
 
 #### <span style="color:blue"> ***2. Research Scientist (May 2022 - August 2026) - Microsoft, UK***</span>
 
