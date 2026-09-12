@@ -25,10 +25,9 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 #### <span style="color:blue"> ***1. Senior Research Scientist (September 2026 - Present) - Microsoft, UK***</span>
 
 <p align="justify"> Currently working on the following projects:
-  
 - Multimodal LLM research for meeting intelligence using video-based inputs, evaluating model performance across real meeting scenarios.
 - Enrollment systems for meeting-room devices, developing quality scoring, outlier detection metrics, and dashboard-driven evaluation to replace active UI-based enrollment workflows.
-- Metricated face identity and multi-person tracking systems, analyzed false positives/negatives and quantify the impact of occlusion, head pose, resolution, and frame rate on deployment performance.
+- Metricated face identity and multi-person tracking systems, analyzed false positives/negatives and quantify the impact of occlusion, head pose, resolution, and frame rate on deployment performance.</p>
 
 #### <span style="color:blue"> ***2. Research Scientist (May 2022 - August 2026) - Microsoft, UK***</span>
 
