@@ -25,6 +25,7 @@ Born in Mauritius, a tropical and paradise Island, I did my undergraduate studie
 #### <span style="color:blue"> ***1. Senior Research Scientist (September 2026 - Present) - Microsoft, UK***</span>
 
 <p align="justify"> Currently working on the following projects:
+  
 • Multimodal LLM research for meeting intelligence using video-based inputs, evaluating model performance across real meeting scenarios.
 
 • Enrollment systems for meeting-room devices, developing quality scoring, outlier detection metrics, and dashboard-driven evaluation to replace active UI-based enrollment workflows.
